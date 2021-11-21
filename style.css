@@ -1,19 +1,9 @@
 body {
   font-family: 'Jost', serif;
-  /* background-color: #0d0031; */
+  background-color: #0d0031;
   color: #b69ec4;
   font-size: 14px;
   /* font-size: 30px; */
-
-  background: linear-gradient(
-    to bottom,
-    #0d0031,
-    #0d0031 50%,
-    #24024b 50%,
-    #24024b
-  );
-  background-size: 100% 4px;
-  animation: gradientMove 200ms ease infinite;
 }
 
 h1{
